@@ -1,0 +1,31 @@
+.speakerCardWrapper{
+    padding: 100px; 
+}
+
+.speakerCard{
+    padding: 60px;
+}
+
+.speakerCard > *{
+    margin-bottom: 30px;
+}
+
+.img-thumbnail{
+    border: none;
+    border-radius: 16px;
+}
+.btn{
+    width: 100px;
+}
+.jumbotron{
+    margin: 50px
+}
+.ttop{
+    background: fixed;
+    background-image: url(https://wallpaper.dog/large/20415212.jpg);
+}
+.mmid{
+    height: 150px;
+    background: fixed;
+    background-image: url(https://wallpaperaccess.com/full/3495412.jpg);
+}
